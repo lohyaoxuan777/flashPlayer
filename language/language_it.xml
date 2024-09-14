@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<language>
+  <italian>
+    <text>File</text>
+    <text>Vista</text>
+    <text>Opzioni</text>
+    <text>Favoriti</text>
+    <text>?</text>
+    <text>OK</text>
+    <text>Blocca</text>
+    <text>FPS</text>
+    <text>D</text>
+    <text>Il file è già esistente.Sovrascrivi il nome?</text>
+    <text>Apri</text>
+    <text>Apri Cartella</text>
+    <text>File Recenti</text>
+    <text>Apri URL</text>
+    <text>Salva File</text>
+    <text>Attributi Filmato</text>
+    <text>Playlist</text>
+    <text>Crea Playlist</text>
+    <text>Schermo Pieno</text>
+    <text>25%</text>
+    <text>50%</text>
+    <text>100%</text>
+    <text>200%</text>
+    <text>Individuale</text>
+    <text>Colori Display</text>
+    <text>Cattura Schermata</text>
+    <text>Menu On / Off</text>
+    <text>Campo di Controllo On / Off</text>
+    <text>Nascondi Automaticamente</text>
+    <text>Associa File</text>
+    <text>Riavvolgi Automaticamente</text>
+    <text>Partenza Automatica</text>
+    <text>Loop film</text>
+    <text>Proporzionale</text>
+    <text>Smoothing</text>
+    <text>Sempre In Primo Piano</text>
+    <text>Palloni Descrittivi On / Off</text>
+    <text>Auto-Spegnimento</text>
+    <text>Misuratore di Picco</text>
+    <text>Cancella Dati Personali</text>
+    <text>Aggiungi Ai Favoriti</text>
+    <text>Apri Favoriti</text>
+    <text>Scambia Favoriti</text>
+    <text>Cancella Favoriti Selezionati</text>
+    <text>Versione</text>
+    <text>Aggiornamenti</text>
+    <text>A proposito di FLV-Media-Player</text>
+    <text>Lingua</text>
+    <text>Sito</text>
+    <text>FLV-Media-Player</text>
+    <text>Apri File</text>
+    <text>Apri Cartella</text>
+    <text>Apri URL</text>
+    <text>Salva file</text>
+    <text>Attributi Filmato</text>
+    <text>Playlist</text>
+    <text>Crea Playlist</text>
+    <text>Aggiornamento</text>
+    <text>Menubar</text>
+    <text>Pannello di controllo</text>
+    <text>Apri URL:</text>
+    <text>3G2</text>
+    <text>3GP</text>
+    <text>3GPP</text>
+    <text>AAC</text>
+    <text>F4A</text>
+    <text>F4B</text>
+    <text>F4P</text>
+    <text>F4V</text>
+    <text>FLV</text>
+    <text>M4A</text>
+    <text>M4V</text>
+    <text>MP4</text>
+    <text>MOV</text>
+    <text>QT</text>
+    <text>MP3</text>
+    <text>PLS</text>
+    <text>XPL</text>
+    <text></text>
+    <text>Percorso</text>
+    <text>File</text>
+    <text>Durata</text>
+    <text>Larghezza</text>
+    <text>Altezza</text>
+    <text>Framerate</text>
+    <text>Video-Datarate</text>
+    <text>Audio-Datarate</text>
+    <text>Video-Codec</text>
+    <text>Audio-Codec</text>
+    <text>Audio-Delay</text>
+    <text>Cue-Points</text>
+    <text>Can Seek To End</text>
+    <text>FLV-Media-Player - Info</text>
+    <text>Sec.</text>
+    <text>Cinese</text>
+    <text>Tedesco</text>
+    <text>Inglese</text>
+    <text>Francese</text>
+    <text>Italiano</text>
+    <text>Giapponese</text>
+    <text>Spagnolo</text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text>Aggiorna</text>
+    <text>Controlla</text>
+    <text>Download</text>
+    <text>OK</text>
+    <text>Premi 'Controlla' per verificare aggiornamenti!</text>
+    <text>Nuova versione pronta per il download!</text>
+    <text>Versione Attuale: </text>
+    <text>Tua Versione: </text>
+    <text>Nessun aggiornamento. Stai usando l'ultima versione!</text>
+    <text>Grazie per aver scelto FLV-Media-Player!</text>
+    <text>Auto-Spegnimento</text>
+    <text>30 Minuti</text>
+    <text>60 Minuti</text>
+    <text>90 Minuti</text>
+    <text>120 Minuti</text>
+    <text>Definire</text>
+    <text>Minuti</text>
+    <text>Attivare</text>
+    <text>Riparti</text>
+    <text>Pausa</text>
+    <text>Hibernate</text>    
+    <text>Spegni</text>
+    <text>OK</text>
+    <text>Importa</text>
+    <text>Esporta</text>
+    <text>Artista</text>
+    <text>Nome Canzone</text>
+    <text>Album</text>
+    <text>Genere</text>
+    <text>Anno</text>
+    <text>Traccia</text>
+    <text>Commento</text>
+    <text>Tipo di File</text>
+    <text>Durata</text>
+    <text>Categoria/Descrizione</text>
+    <text>Sottotitolo/Descrizione Dettagli</text>
+    <text>Primo Tasto</text>
+    <text>Lingua</text>
+    <text>Lunghezza</text>
+    <text>Tipo di Media</text>
+    <text>Original-Albumtitle/-Movietitle/-Showtitle</text>
+    <text>Original-Filename</text>
+    <text>Original-Texter</text>
+    <text>Original-Actor/-Interpret</text>
+    <text>Year of first publication</text>
+    <text>Fileowner/Licensees</text>
+    <text>Band/Orchestra/Escort</text>
+    <text>Conductor/Details Interpret</text>
+    <text>Interpretation, Remix or other processing by</text>
+    <text>Part of a set</text>
+    <text>Publisher</text>
+    <text>Titlenumber/Position in set</text>
+    <text>Recording Date</text>
+    <text>Internet-Radiostation</text>
+    <text>Owner of the Internet-Radiostation</text>
+    <text>Dimensione</text>
+    <text>ISRC (International Standard Recording Code)</text>
+    <text>For encoding used Software/Hardware/Settings</text>
+    <text>URL-Linking-Image</text>
+    <text>File</text>
+    <text>#</text>
+    <text>Titolo</text>
+    <text>Categoria</text>
+    <text>Genere</text>
+    <text>Stato</text>
+    <text>Su</text>
+    <text>Giu</text>
+    <text>Cancella</text>
+    <text>Salva</text>
+    <text>Edita</text>
+    <text>Play</text>
+    <text>Salva Playlist</text>
+    <text>Aggiungi</text>
+    <text>Per Favore...Fai Ripartire FLV-Media-Player!</text>
+    <text>Esegui</text>
+    <text>Seleziona</text>
+    <text>Finestra di Dialogo non Aperta!</text>
+    <text>Attirbuti Filmato non Disponibili!</text>
+    <text>Scegli il File</text>
+    <text>1998 - 2012 by HYBRIDWEB.de (Patrick Müller)</text>
+    <text>Build</text>
+    <text>Icona sul Desktop</text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text>Ctrl</text> 
+    <text>Shift</text>
+    <text>Mescolare</text>
+    <text>Sottotitolo</text>
+    <text>M3U</text>
+    <text>Evento-Alert On / Off</text>
+    <text>Eventi</text>
+    <text>Stazioni radio</text>
+  </italian>
+</language>

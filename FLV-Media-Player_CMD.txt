@@ -1,0 +1,81 @@
+--------------------------------------------------------
+Keyboard-Command          Function
+--------------------------------------------------------
+A / F1                    Open About Window
+C / F7                    Open Color-Settings Window
+I / F4                    Open Media-Properties Window
+L / F2                    Open Playlist Window
+O / F3                    Open Favorites
+R / F5                    Open Recent-Files Window
+T / F6                    Open Sleeptimer Window
+U / F8                    Open Update Window
+V / F9                    Open Version Window
+
+P                         Pause / Play
+S                         Stop and Rewind
+Pause / Break             Pause / Play 
+M                         Audio Mute
+Cursor Left               Back
+Cursor Right              Forward
+Cursor Up                 Volume Up
+Cursor Down               Volume Down
+F                         Fullscreen
+Alt                       Activate Menubar
+Space                     Pause / Play 
+
+Control + 1               Zoom 25%
+Control + 2               Zoom 50%
+Control + 3               Zoom 100%
+Control + 4               Zoom 200%
+
+Control + E               Open-Events
+Control + F               Open-Folder
+Control + H               WWW
+Control + L               Peakmeter / Levelmeter
+Control + O               Open-File
+Control + R               Open-Stations
+Control + S               Save-File
+Control + U               Open-URL
+
+Shift + A                 Autostart On / Off
+Shift + B                 Ballon Details On / Off
+Shift + C                 Control-Pannel On / Off
+Shift + D                 Create Desktop Icon
+Shift + E                 Event Alert On / Off
+Shift + F                 Create Favorite Shortcut
+Shift + H                 Auto-Hide On / Off
+Shift + L                 Loop Media On / Off
+Shift + M                 Menu On / Off
+Shift + P                 Proportional On / Off
+Shift + R                 Autorewind On / Off
+Shift + S                 Smoothing On / Off
+Shift + T                 Always On Top On / Off
+Shift + U                 Captioning On / Off
+Shift + X                 Delete Personal Data
+Shift + Z                 Capture Screen
+
+Esc                       Exit Application
+--------------------------------------------------------
+
+Mousewheel                Volume Up / Volume Down
+
+
+
+
+
+--------------------------------------------------------
+CMD-Function              On      Off
+--------------------------------------------------------
+Fullscreen                /f      /F
+Menu                      /m      /M
+Controlfield              /c      /C
+Auto-Hide Controlfield    /h      /H
+Auto-Start                /s      /S
+Loop-Media                /l      /L
+Always-On-Top             /t      /T
+Ballon-Help               /b      /B
+Smoothing                 /s      /S
+Proportional-Scaling      /p      /P
+Auto-Rewind               /r      /R
+--------------------------------------------------------
+Usage: FLV-Media-Player.exe Z:\Filename.flv /fMchsLTBspr

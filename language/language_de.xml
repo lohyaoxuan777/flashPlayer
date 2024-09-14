@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<language>
+  <german>
+    <text>Datei</text>
+    <text>Anzeige</text>
+    <text>Optionen</text>
+    <text>Favoriten</text>
+    <text>?</text>
+    <text>OK</text>
+    <text>Lock</text>
+    <text>FPS</text>
+    <text>T</text>
+    <text>Der Dateiname existiert bereits. Möchten Sie die Datei überschreiben?</text>
+    <text>Öffnen</text>
+    <text>Verzeichnis öffnen</text>
+    <text>Zuletzt geöffnete Dateien</text>
+    <text>URL Öffnen</text>
+    <text>Speichern unter</text>
+    <text>Eigenschaften</text>
+    <text>Playliste</text>
+    <text>Playliste erstellen</text>
+    <text>Vollbildmodus</text>
+    <text>25%</text>
+    <text>50%</text>
+    <text>100%</text>
+    <text>200%</text>
+    <text>Individuel</text>
+    <text>Anzeigefarben</text>
+    <text>Bildschirmfoto</text>
+    <text>Menü Ein / Aus</text>
+    <text>Kontrollfeld Ein / Aus</text>
+    <text>Automatisch verbergen</text>
+    <text>Datei Zuweisung</text>
+    <text>Automatisches zurückspulen</text>
+    <text>Automatisch starten</text>
+    <text>Film endlos abspielen</text>
+    <text>Proportional</text>
+    <text>Weichzeichner</text>
+    <text>Fenster immer oben</text>
+    <text>Ballon Details Ein / Aus</text>
+    <text>Sleep-Timer</text>
+    <text>Peak-Meter</text>
+    <text>Persönliche Daten löschen</text>
+    <text>Zu Favoriten hinzufügen</text>
+    <text>Favoriten öffnen</text>
+    <text>Favoriten Austausch</text>
+    <text>Markierte Favoriten löschen</text>
+    <text>Version</text>
+    <text>Update</text>
+    <text>Über FLV-Media-Player</text>
+    <text>Sprache</text>
+    <text>Home</text>
+    <text>FLV-Media-Player</text>
+    <text>Datei öffnen</text>
+    <text>Verzeichnis öffnen</text>
+    <text>Öffne URL</text>
+    <text>Speichern unter</text>
+    <text>Eigenschaften</text>
+    <text>Playliste</text>
+    <text>Playliste erstellen</text>
+    <text>Update</text>
+    <text>Menüleiste</text>
+    <text>Kontrollfeld</text>
+    <text>Bitte geben Sie eine URL ein:</text>
+    <text>3G2</text>
+    <text>3GP</text>
+    <text>3GPP</text>
+    <text>AAC</text>
+    <text>F4A</text>
+    <text>F4B</text>
+    <text>F4P</text>
+    <text>F4V</text>
+    <text>FLV</text>
+    <text>M4A</text>
+    <text>M4V</text>
+    <text>MP4</text>
+    <text>MOV</text>
+    <text>QT</text>
+    <text>MP3</text>
+    <text>PLS</text>
+    <text>XPL</text>
+    <text></text>
+    <text>Pfad</text>
+    <text>Dateiname</text>
+    <text>Spielzeit</text>
+    <text>Breite</text>
+    <text>Höhe</text>
+    <text>Bildrate</text>
+    <text>Video-Datenrate</text>
+    <text>Audio-Datenrate</text>
+    <text>Video-Codec</text>
+    <text>Audio-Codec</text>
+    <text>Audio-Verzögerung</text>
+    <text>Cue-Points</text>
+    <text>Can Seek To End</text>
+    <text>FLV-Media-Player - Info</text>
+    <text>Sek.</text>
+    <text>Chinese</text>
+    <text>Deutsch</text>
+    <text>English</text>
+    <text>French</text>
+    <text>Italian</text>
+    <text>Japanese</text>
+    <text>Spanish</text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text>Update</text>
+    <text>Überprüfen</text>
+    <text>Download</text>
+    <text>OK</text>
+    <text>Klicken Sie auf 'Überprüfen' um zu testen ob eine neue Version verfügbar ist!</text>
+    <text>Eine neue Version ist zum downloaden verfügbar!</text>
+    <text>Neue Version: </text>
+    <text>Ihre Version: </text>
+    <text>Kein Update verfügbar! Sie haben bereits die aktuellste Version.</text>
+    <text>Vielen Dank das Sie FLV-Media-Player gewählt haben!</text>
+    <text>Sleep-Timer</text>
+    <text>30 Minuten</text>
+    <text>60 Minuten</text>
+    <text>90 Minuten</text>
+    <text>120 Minuten</text>
+    <text>Definiere</text>
+    <text>Minuten</text>
+    <text>Aktivieren</text>
+    <text>Neustarten</text>
+    <text>Suspend</text>
+    <text>Hibernate</text>    
+    <text>Ausschalten</text>
+    <text>OK</text>
+    <text>Import</text>
+    <text>Export</text>
+    <text>Artist</text>
+    <text>Songname</text>
+    <text>Album</text>
+    <text>Genre</text>
+    <text>Jahr</text>
+    <text>Track</text>
+    <text>Kommentar</text>
+    <text>Dateityp</text>
+    <text>Zeit</text>
+    <text>Kategorie/Beschreibung</text>
+    <text>Untertitel/genauere Beschreibung</text>
+    <text>Anfangstonart</text>
+    <text>Sprachen</text>
+    <text>Länge</text>
+    <text>Medientyp</text>
+    <text>Original-Albumtitel/-Filmtitel/-Showtitel</text>
+    <text>Original-Dateiname</text>
+    <text>Original-Texter</text>
+    <text>Original-Künstler/-Interpreten</text>
+    <text>Jahr der Erstveröffentlichung</text>
+    <text>Dateiinhaber/Lizenznehmer</text>
+    <text>Band/Orchester/Begleitung</text>
+    <text>Dirigent/Details Interpret</text>
+    <text>Interpretation, Remix oder sonstige Bearbeitung durch</text>
+    <text>Teil eines Sets</text>
+    <text>Verlag</text>
+    <text>Titelnummer/Position im Set</text>
+    <text>Aufnahmedatum</text>
+    <text>Internet-Radiosender</text>
+    <text>Inhaber des Internet-Radiosenders</text>
+    <text>Größe</text>
+    <text>ISRC (International Standard Recording Code)</text>
+    <text>Für Kodierung verwendete Software/Hardware/Einstellungen</text>
+    <text>URL-Verknüpfungsbild</text>
+    <text>Datei</text>
+    <text>Nr.</text>
+    <text>Titel</text>
+    <text>Kategorie</text>
+    <text>Typ</text>
+    <text>Status</text>
+    <text>Hoch</text>
+    <text>Runter</text>
+    <text>Löschen</text>
+    <text>Sichern</text>
+    <text>Editieren</text>
+    <text>Abspielen</text>
+    <text>Playliste sichern</text>
+    <text>Hinzufügen</text>
+    <text>Bitte FLV-Media-Player neustarten!</text>
+    <text>Ausführen</text>
+    <text>Markieren</text>
+    <text>Dialogbox konnte nicht geöffnet werden!</text>
+    <text>Keine Datei Eigenschaften verfügbar!</text>
+    <text>Bitte wählen Sie eine Datei</text>
+    <text>1998 - 2012 by HYBRIDWEB.de (Patrick Müller)</text>
+    <text>Build</text>
+    <text>Desktop Icon</text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text>Strg</text> 
+    <text>Umsch</text>
+    <text>Mischen</text>
+    <text>Untertitel</text>
+    <text>M3U</text>
+    <text>Veranstaltungserinnerung Ein / Aus</text>
+    <text>Veranstaltungen</text>
+    <text>Radio Stationen</text>
+  </german>
+</language>

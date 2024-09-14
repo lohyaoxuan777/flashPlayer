@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<language>
+  <chinese>
+    <text>文件</text>
+    <text>查看</text>
+    <text>选项</text>
+    <text>收藏</text>
+    <text>?</text>
+    <text>OK</text>
+    <text>Lock</text>
+    <text>FPS</text>
+    <text>D</text>
+    <text>The filename file already exists. Do you want to overwrite it?</text>
+    <text>打开</text>
+    <text>打开目录</text>
+    <text>新近打开的文件</text>
+    <text>打开 URL</text>
+    <text>保存文件</text>
+    <text>文件信息</text>
+    <text>播放列表</text>
+    <text>创建播放列表</text>
+    <text>全屏幕</text>
+    <text>25%</text>
+    <text>50%</text>
+    <text>100%</text>
+    <text>200%</text>
+    <text>个性化</text>
+    <text>显示颜色</text>
+    <text>屏幕截图</text>
+    <text>控制栏</text>
+    <text>控制栏</text>
+    <text>自动隐藏</text>
+    <text>文件关联</text>
+    <text>自动返回</text>
+    <text>自动开始</text>
+    <text>循环播放</text>
+    <text>比例</text>
+    <text>平滑处理</text>
+    <text>始终在最前</text>
+    <text>气泡提示</text>
+    <text>Sleep-Timer</text>
+    <text>电平指示</text>
+    <text>删除个人数据</text>
+    <text>添加到收藏</text>
+    <text>收藏打开</text>
+    <text>收藏交换</text>
+    <text>从收藏中删除所选</text>
+    <text>版本</text>
+    <text>更新</text>
+    <text>关于 FLV-Media-Player</text>
+    <text>语言</text>
+    <text>主页</text>
+    <text>FLV-Media-Player</text>
+    <text>打开文件</text>
+    <text>打开目录</text>
+    <text>打开网址</text>
+    <text>保存文件</text>
+    <text>媒体信息</text>
+    <text>播放列表</text>
+    <text>创建播放列表</text>
+    <text>更新</text>
+    <text>菜单栏</text>
+    <text>控制栏</text>
+    <text>打开网址:</text>
+    <text>3G2</text>
+    <text>3GP</text>
+    <text>3GPP</text>
+    <text>AAC</text>
+    <text>F4A</text>
+    <text>F4B</text>
+    <text>F4P</text>
+    <text>F4V</text>
+    <text>FLV</text>
+    <text>M4A</text>
+    <text>M4V</text>
+    <text>MP4</text>
+    <text>MOV</text>
+    <text>QT</text>
+    <text>MP3</text>
+    <text>PLS</text>
+    <text>XPL</text>
+    <text></text>
+    <text>Path</text>
+    <text>文件</text>
+    <text>持续时间</text>
+    <text>宽度</text>
+    <text>高度</text>
+    <text>帧率</text>
+    <text>视频码率</text>
+    <text>音频码率</text>
+    <text>视频编码版本</text>
+    <text>音频编码版本</text>
+    <text>Audio-Verzögerung</text>
+    <text>Cue-Points</text>
+    <text>Can Seek To End</text>
+    <text>FLV-Media-Player - Info</text>
+    <text>秒</text>
+    <text>Chinese</text>
+    <text>Deutsch</text>
+    <text>English</text>
+    <text>French</text>
+    <text>Italian</text>
+    <text>Japanese</text>
+    <text>Spanish</text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text>更新</text>
+    <text>检查</text>
+    <text>下载</text>
+    <text>OK</text>
+    <text>点击“检查”查找可用的新版本！</text>
+    <text>有新版本可以下载了！</text>
+    <text>当前版本: </text>
+    <text>已安装版本: </text>
+    <text>没有更新！你已经是最新的版本了。</text>
+    <text>感谢您选择 FLV-Media-Player！</text>
+    <text>Sleep-Timer</text>
+    <text>30 Minutes</text>
+    <text>60 Minutes</text>
+    <text>90 Minutes</text>
+    <text>120 Minutes</text>
+    <text>Define</text>
+    <text>Minutes</text>
+    <text>Activate</text>
+    <text>Restart</text>
+    <text>Suspend</text>
+    <text>Hibernate</text>    
+    <text>ShutDown</text>
+    <text>OK</text>
+    <text>导入</text>
+    <text>导出</text>
+    <text>艺人</text>
+    <text>曲名</text>
+    <text>专辑</text>
+    <text>类别</text>
+    <text>年份</text>
+    <text>音轨</text>
+    <text>注释</text>
+    <text>文件类型</text>
+    <text>时间</text>
+    <text>索引/描述</text>
+    <text>副题/详细描述</text>
+    <text>关键词</text>
+    <text>语言</text>
+    <text>长度</text>
+    <text>媒体类型</text>
+    <text>原始专辑标题/影片标题/演出标题</text>
+    <text>原始文件名</text>
+    <text>原始文本作者</text>
+    <text>原作者/演奏者</text>
+    <text>首次发行日期</text>
+    <text>文件所有者/版权</text>
+    <text>乐队/伴奏</text>
+    <text>指挥/表演者明细</text>
+    <text>演奏、混音或其他处理者</text>
+    <text>部分设定</text>
+    <text>发行人</text>
+    <text>曲目编号</text>
+    <text>录制时间</text>
+    <text>互联网电台</text>
+    <text>互联网电台拥有者</text>
+    <text>尺寸</text>
+    <text>ISRC (国际标准记录码)</text>
+    <text>编码 软件/硬件/设置</text>
+    <text>专辑封面</text>
+    <text>文件</text>
+    <text>#</text>
+    <text>标题</text>
+    <text>索引</text>
+    <text>类型</text>
+    <text>状态</text>
+    <text>上一个</text>
+    <text>下一个</text>
+    <text>删除</text>
+    <text>保存</text>
+    <text>编辑</text>
+    <text>播放</text>
+    <text>保存播放列表</text>
+    <text>添加</text>
+    <text>请重新打开 FLV-Media-Player！</text>
+    <text>编制</text>
+    <text>选择</text>
+    <text>对话框打开失败！</text>
+    <text>没有可用的文件信息！</text>
+    <text>选择文件</text>
+    <text>1998 - 2012 by HYBRIDWEB.de (Patrick Müller)</text>
+    <text>Build</text>
+    <text>Desktop Icon</text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text>Ctrl</text> 
+    <text>Shift</text>
+    <text>洗牌</text>
+    <text>字幕</text>
+    <text>M3U</text>
+    <text>事件警报开/关</text>
+    <text>活动</text>
+    <text>广播电台</text>
+  </chinese>
+</language>

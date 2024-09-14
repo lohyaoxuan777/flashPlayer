@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<language>
+  <english>
+    <text>File</text>
+    <text>View</text>
+    <text>Options</text>
+    <text>Favorites</text>
+    <text>?</text>
+    <text>OK</text>
+    <text>Lock</text>
+    <text>FPS</text>
+    <text>D</text>
+    <text>The filename already exists. Do you want to overwrite it?</text>
+    <text>Open</text>
+    <text>Open Directory</text>
+    <text>Recent Files</text>
+    <text>Open URL</text>
+    <text>Save File</text>
+    <text>Movie Attributes</text>
+    <text>Playlist</text>
+    <text>Create Playlist</text>
+    <text>Fullscreen</text>
+    <text>25%</text>
+    <text>50%</text>
+    <text>100%</text>
+    <text>200%</text>
+    <text>Individually</text>
+    <text>Display Color</text>
+    <text>Screen Capture</text>
+    <text>Menu On / Off</text>
+    <text>Controlfield On / Off</text>
+    <text>Auto-Hide</text>
+    <text>File Association</text>
+    <text>Automatic Rewind</text>
+    <text>Automatic Start</text>
+    <text>Loop Movie</text>
+    <text>Proportional</text>
+    <text>Smoothing</text>
+    <text>Always On Top</text>
+    <text>Balloon Details On / Off</text>
+    <text>Sleep-Timer</text>
+    <text>Peak-Meter</text>
+    <text>Delete Personal Data</text>
+    <text>Add to Favorites</text>
+    <text>Open Favorites</text>
+    <text>Favorites Exchange</text>
+    <text>Delete selected Favorites</text>
+    <text>Version</text>
+    <text>Update</text>
+    <text>About FLV-Media-Player</text>
+    <text>Language</text>
+    <text>Home</text>
+    <text>FLV-Media-Player</text>
+    <text>Open file</text>
+    <text>Open folder</text>
+    <text>Open URL</text>
+    <text>Save file</text>
+    <text>Movie Attributes</text>
+    <text>Playlist</text>
+    <text>Create Playlist</text>
+    <text>Update</text>
+    <text>Menubar</text>
+    <text>Control Panel</text>
+    <text>Open URL:</text>
+    <text>3G2</text>
+    <text>3GP</text>
+    <text>3GPP</text>
+    <text>AAC</text>
+    <text>F4A</text>
+    <text>F4B</text>
+    <text>F4P</text>
+    <text>F4V</text>
+    <text>FLV</text>
+    <text>M4A</text>
+    <text>M4V</text>
+    <text>MP4</text>
+    <text>MOV</text>
+    <text>QT</text>
+    <text>MP3</text>
+    <text>PLS</text>
+    <text>XPL</text>
+    <text></text>
+    <text>Path</text>
+    <text>File</text>
+    <text>Duration</text>
+    <text>Width</text>
+    <text>Height</text>
+    <text>Framerate</text>
+    <text>Video-Datarate</text>
+    <text>Audio-Datarate</text>
+    <text>Video-Codec</text>
+    <text>Audio-Codec</text>
+    <text>Audio-Delay</text>
+    <text>Cue-Points</text>
+    <text>Can Seek To End</text>
+    <text>FLV-Media-Player - Info</text>
+    <text>Sec.</text>
+    <text>Chinese</text>
+    <text>Deutsch</text>
+    <text>English</text>
+    <text>French</text>
+    <text>Italian</text>
+    <text>Japanese</text>
+    <text>Spanish</text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text>Update</text>
+    <text>Verify</text>
+    <text>Download</text>
+    <text>OK</text>
+    <text>Click on 'Verify' to check if a new Version is available!</text>
+    <text>A New Release is available for download!</text>
+    <text>Current Version: </text>
+    <text>Your Version: </text>
+    <text>No Update available! You still have the latest Version.</text>
+    <text>Thank you for choosing FLV-Media-Player!</text>
+    <text>Sleep-Timer</text>
+    <text>30 Minutes</text>
+    <text>60 Minutes</text>
+    <text>90 Minutes</text>
+    <text>120 Minutes</text>
+    <text>Define</text>
+    <text>Minutes</text>
+    <text>Activate</text>
+    <text>Restart</text>
+    <text>Suspend</text>
+    <text>Hibernate</text>    
+    <text>ShutDown</text>
+    <text>OK</text>
+    <text>Import</text>
+    <text>Export</text>
+    <text>Artist</text>
+    <text>Songname</text>
+    <text>Album</text>
+    <text>Genre</text>
+    <text>Year</text>
+    <text>Track</text>
+    <text>Comment</text>
+    <text>Filetype</text>
+    <text>Time</text>
+    <text>Category/Description</text>
+    <text>Subtitle/Detailed Description</text>
+    <text>First Key</text>
+    <text>Languages</text>
+    <text>Length</text>
+    <text>Mediatype</text>
+    <text>Original-Albumtitle/-Movietitle/-Showtitle</text>
+    <text>Original-Filename</text>
+    <text>Original-Texter</text>
+    <text>Original-Actor/-Interpret</text>
+    <text>Year of first publication</text>
+    <text>Fileowner/Licensees</text>
+    <text>Band/Orchestra/Escort</text>
+    <text>Conductor/Details Interpret</text>
+    <text>Interpretation, Remix or other processing by</text>
+    <text>Part of a set</text>
+    <text>Publisher</text>
+    <text>Titlenumber/Position in set</text>
+    <text>Recording Date</text>
+    <text>Internet-Radiostation</text>
+    <text>Owner of the Internet-Radiostation</text>
+    <text>Size</text>
+    <text>ISRC (International Standard Recording Code)</text>
+    <text>For encoding used Software/Hardware/Settings</text>
+    <text>URL-Linking-Image</text>
+    <text>File</text>
+    <text>#</text>
+    <text>Title</text>
+    <text>Category</text>
+    <text>Type</text>
+    <text>Status</text>
+    <text>Up</text>
+    <text>Down</text>
+    <text>Delete</text>
+    <text>Save</text>
+    <text>Edit</text>
+    <text>Play</text>
+    <text>Save Playlist</text>
+    <text>Add</text>
+    <text>Please restart FLV-Media-Player!</text>
+    <text>Execute</text>
+    <text>Select</text>
+    <text>Dialog box failed to open!</text>
+    <text>No Movie Attributes available!</text>
+    <text>Choose a File</text>
+    <text>1998 - 2012 by HYBRIDWEB.de (Patrick Müller)</text>
+    <text>Build</text>
+    <text>Desktop Icon</text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text></text>
+    <text>Ctrl</text> 
+    <text>Shift</text>
+    <text>Shuffle</text>
+    <text>Subtitle</text>
+    <text>M3U</text>
+    <text>Event-Alert On / Off</text>
+    <text>Events</text>
+    <text>Radio Stations</text>
+  </english>
+</language>
